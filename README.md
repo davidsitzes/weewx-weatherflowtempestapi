@@ -32,4 +32,6 @@ sudo wee_config --reconfigure
     driver = user.weatherflowtempestapi
 ```
 5) Restart weewx
+```
 sudo /etc/init.d/weewx/restart
+```
